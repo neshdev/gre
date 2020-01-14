@@ -1,10 +1,10 @@
 # Argument
 
-An arugument is made up of the the set of conclusions and evidences.
+An argument is made up of the the set of conclusions and evidences.
 
 # Main Conclusion
 
-Every argument has a *main conclusion*. The main conlusion is the claim the author is trying to persuade the reader into believing is true.
+Every argument has a *main conclusion*. The main conclusion is the claim the author is trying to persuade the reader into believing is true.
 
 The main conclusion does not support any other idea and can stand independently. 
 
@@ -12,14 +12,14 @@ Conclusions can vary in degree from definite to indefinite. Definite conclusions
 
 ## Common types of Conclusions
 
-Most conclusions can be discetely partitioned into the below types.
+Most conclusions can be discreetly partitioned into the below types.
 
 1. Comparison Conclusion  
     A comparison conclusion will compare two things against each other or will compare something with itself.
 
 2. Causation Conclusion
 
-    A caustaion conclusion will talk about causes and effects.
+    A causation conclusion will talk about causes and effects.
 
     An easy way to invalidate a causation conclusion is to provide an alternate explanation.
 
@@ -39,7 +39,7 @@ A prediction conclusion will trying to forsee or infer a future event. This is u
 
 6. Simple Belief Conclusion
 
-This is a catch all conclusion. Technically, all conclusions are simple beliefs, but it is better to categorize and identify the above conclusions with thier own types because we can use tactic to dedduce the correct answer.
+This is a catch all conclusion. Technically, all conclusions are simple beliefs, but it is better to categorize and identify the above conclusions with their own types because we can use tactic to deduce the correct answer.
 
 # Evidence
 
@@ -80,9 +80,9 @@ When you’re asked to identify a flaw, you’re not adding any information but 
 ## Below are the most common type of flaws
 
 * Sampling Bias - Generalize from a sample to make claims on a whole population.
-* Adhomein - attack someones character, motive or belief
-* False Dichotomy - pretending there is only two situtations when there could be more
-* Circular Reasoning - X becaue X
+* Ad hominem - attack someones character, motive or belief
+* False Dichotomy - pretending there is only two situations when there could be more
+* Circular Reasoning - X because X
 * Over generalization - generalize a statement without proper care
 * Causation from Correlation - observe two events, X and Y, and conclude that one caused the other, X -> Y. Can have two faults.
     1. Y -> X
@@ -106,5 +106,5 @@ have no effect on the argument
 
 1. Identity the situation in your own words
 2. Look for contrast keywords
-3. Phrase the situation as question
+3. Phrase the situation as a question
 4. Test each choice as a response to the question you formulated
